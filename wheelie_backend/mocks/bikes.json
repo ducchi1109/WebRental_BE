@@ -1,0 +1,226 @@
+{
+  "bikes": [
+    {
+      "id": 1,
+      "brand": "Honda",
+      "model": "Winner X",
+      "displacement": 150,
+      "pricePerDay": 300000,
+      "imageUrls": [
+        "https://cdn.honda.com.vn/motorbike-versions/Image360/October2024/1729586598/6.png"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Yamaha",
+      "model": "NVX",
+      "displacement": 155,
+      "pricePerDay": 3000,
+      "imageUrls": [
+        "https://yamaha-motor.com.vn/wp/wp-content/uploads/2018/09/NVX-125-Red-002.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "Honda",
+      "model": "Future",
+      "displacement": 125,
+      "pricePerDay": 150000,
+      "imageUrls": [
+        "https://cdn.honda.com.vn/motorbike-strong-points/October2024/TrwgwtuAdBeWXZzsRvDX.png"
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "Honda",
+      "model": "Wave RSX FI 110",
+      "displacement": 110,
+      "pricePerDay": 150000,
+      "imageUrls": [
+        "https://i1-vnexpress.vnecdn.net/2023/11/23/Honda-Wave-RSX-FI-2024-Sport-20.jpg?w=750&h=0&q=100&dpr=1&fit=crop&s=Y3URSNpSgSefTOLd7uj97A"
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "Honda",
+      "model": "Wave Alpha 110",
+      "displacement": 110,
+      "pricePerDay": 150000,
+      "imageUrls": [
+        "https://product.hstatic.net/1000391844/product/wave-alpha-2024-dac-biet-den-nham_0d120b75a17b45b983aca4dd296647f9_large.png"
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "Yamaha",
+      "model": "Sirius 110cc",
+      "displacement": 110,
+      "pricePerDay": 300000,
+      "imageUrls": [
+        "https://rentalmotorbikehanoi.com/wp-content/uploads/2021/08/Yamaha-Sirius-Motorbike-Rental.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "Honda",
+      "model": "Vision",
+      "displacement": 110,
+      "pricePerDay": 200000,
+      "imageUrls": [
+        "https://xemaynhapkhau.com/wp-content/uploads/2023/03/vision-background-pb-the-thao-xam-den.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "Honda",
+      "model": "Air Blade",
+      "displacement": 125,
+      "pricePerDay": 200000,
+      "imageUrls": [
+        "https://hondadoanhthu.com.vn/wp-content/uploads/2022/01/tc-den-bac.png"
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "Honda",
+      "model": "Vario 150",
+      "displacement": 150,
+      "pricePerDay": 300000,
+      "imageUrls": [
+        "https://congngheviet.com/wp-content/uploads/2022/06/honda-vario-150.jpeg"
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "Vespa",
+      "model": "Piaggio Medley 150 - Special Edition",
+      "displacement": 150,
+      "pricePerDay": 500000,
+      "imageUrls": [
+        "https://autopro8.mediacdn.vn/2017/-1494734783353.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "Honda",
+      "model": "SH150",
+      "displacement": 150,
+      "pricePerDay": 550000,
+      "imageUrls": [
+        "https://xemaynamtien.com/uploads/source/san-pham/sh-125-tieu-chuan/sh125-tieu-chuan-do.png"
+      ]
+    },
+    {
+      "id": 12,
+      "brand": "Yamaha",
+      "model": "PG-1",
+      "displacement": 110,
+      "pricePerDay": 300000,
+      "imageUrls": []
+    },
+    {
+      "id": 13,
+      "brand": "Honda",
+      "model": "ADV 160",
+      "displacement": 160,
+      "pricePerDay": 600000,
+      "imageUrls": []
+    },
+    {
+      "id": 14,
+      "brand": "Honda",
+      "model": "Spacey",
+      "displacement": 125,
+      "pricePerDay": 400000,
+      "imageUrls": []
+    },
+    {
+      "id": 15,
+      "brand": "Suzuki",
+      "model": "Burgman Street 125",
+      "displacement": 125,
+      "pricePerDay": 300000,
+      "imageUrls": []
+    },
+    {
+      "id": 16,
+      "brand": "Honda",
+      "model": "Super Cub 125",
+      "displacement": 125,
+      "pricePerDay": 400000,
+      "imageUrls": []
+    },
+    {
+      "id": 17,
+      "brand": "Honda",
+      "model": "Lead 125",
+      "displacement": 125,
+      "pricePerDay": 300000,
+      "imageUrls": []
+    },
+    {
+      "id": 18,
+      "brand": "Yamaha",
+      "model": "Nouvo",
+      "displacement": 135,
+      "pricePerDay": 300000,
+      "imageUrls": []
+    },
+    {
+      "id": 19,
+      "brand": "Yamaha",
+      "model": "LEXi 155",
+      "displacement": 155,
+      "pricePerDay": 300000,
+      "imageUrls": []
+    },
+    {
+      "id": 20,
+      "brand": "Honda",
+      "model": "PCX 160",
+      "displacement": 160,
+      "pricePerDay": 600000,
+      "imageUrls": []
+    },
+    {
+      "id": 21,
+      "brand": "Yamaha",
+      "model": "Jupiter FI",
+      "displacement": 125,
+      "pricePerDay": 300000,
+      "imageUrls": []
+    },
+    {
+      "id": 22,
+      "brand": "Hyosung",
+      "model": "WS 2024",
+      "displacement": 50,
+      "pricePerDay": 100000,
+      "imageUrls": []
+    },
+    {
+      "id": 23,
+      "brand": "Hyosung",
+      "model": "HSV3",
+      "displacement": 50,
+      "pricePerDay": 100000,
+      "imageUrls": []
+    },
+    {
+      "id": 24,
+      "brand": "SYM",
+      "model": "Shark 50",
+      "displacement": 50,
+      "pricePerDay": 100000,
+      "imageUrls": []
+    },
+    {
+      "id": 25,
+      "brand": "SYM",
+      "model": "Attila",
+      "displacement": 50,
+      "pricePerDay": 100000,
+      "imageUrls": []
+    }
+  ]
+}

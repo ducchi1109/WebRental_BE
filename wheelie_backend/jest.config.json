@@ -1,0 +1,27 @@
+{
+  "moduleFileExtensions": ["js", "json", "ts"],
+  "rootDir": ".",
+  "testRegex": ".spec.ts$",
+  "testPathIgnorePatterns": [".e2e.spec.ts$"],
+  "transform": {
+    "^.+\\.(t|j)s$": "ts-jest"
+  },
+  "coverageDirectory": "./coverage/unit",
+  "coverageReporters": ["json-summary", "text-summary", "lcov"],
+  "testEnvironment": "node",
+  "roots": ["<rootDir>/src/"],
+  "moduleDirectories": ["node_modules", "<rootDir>"],
+  "setupFiles": [],
+  "setupFilesAfterEnv": ["jest-extended"],
+  "moduleNameMapper": {
+    "^~/test/(.*)$": "<rootDir>/test/$1",
+    "^@/(.*)$": "<rootDir>/src/$1"
+  },
+  "globals": {
+    "ts-jest": {
+      "isolatedModules": true
+    }
+  },
+  "clearMocks": true,
+  "maxWorkers": 1
+}
