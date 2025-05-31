@@ -1,3 +1,0 @@
-ALTER TABLE wheelie.users
-    ADD COLUMN password VARCHAR(255) NOT NULL,
-    ADD COLUMN is_verified BOOLEAN DEFAULT FALSE;
