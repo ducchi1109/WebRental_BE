@@ -13,6 +13,7 @@ If you're using Windows, you might want to set up `git bash`, but the recommende
 is to use WSL, as we're utilising Docker anyway.
 
 ```bash
+npm install
 nvm install
 nvm use
 make up ## make up-verbose for debug logging
